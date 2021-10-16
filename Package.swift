@@ -27,7 +27,7 @@ let package = Package(
         )
         // .testTarget(
         //     name: "MyLibraryTests",
-        //     dependencies: ["MyLibrary"]
-            ),
+        //     dependencies: ["MyLibrary"])
+        // ,
     ]
 )
