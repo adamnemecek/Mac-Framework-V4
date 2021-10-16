@@ -25,9 +25,5 @@ let package = Package(
             name: "PaddleFramework",
             path: "Paddle.xcframework"
         )
-        // .testTarget(
-        //     name: "MyLibraryTests",
-        //     dependencies: ["MyLibrary"])
-        // ,
     ]
 )
