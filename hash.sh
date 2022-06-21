@@ -1,0 +1,1 @@
+md5 Paddle.xcframework/macos-arm64_x86_64/Paddle.framework/Versions/A/Paddle
